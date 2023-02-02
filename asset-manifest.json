@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/deepak-portfolio/static/css/main.e85458ed.css",
+    "main.css": "/deepak-portfolio/static/css/main.d4c0cb43.css",
     "main.js": "/deepak-portfolio/static/js/main.4fa03600.js",
     "static/media/deepak.png": "/deepak-portfolio/static/media/deepak.d59f13ddec003e5760e8.png",
     "static/media/deepak1.png": "/deepak-portfolio/static/media/deepak1.ef4ccc08fe023bfcc4cd.png",
@@ -11,11 +11,11 @@
     "static/media/booking.jpeg": "/deepak-portfolio/static/media/booking.701bad40cc05dff609fc.jpeg",
     "static/media/expense.jpeg": "/deepak-portfolio/static/media/expense.8de22e2e8bcc495dc846.jpeg",
     "index.html": "/deepak-portfolio/index.html",
-    "main.e85458ed.css.map": "/deepak-portfolio/static/css/main.e85458ed.css.map",
+    "main.d4c0cb43.css.map": "/deepak-portfolio/static/css/main.d4c0cb43.css.map",
     "main.4fa03600.js.map": "/deepak-portfolio/static/js/main.4fa03600.js.map"
   },
   "entrypoints": [
-    "static/css/main.e85458ed.css",
+    "static/css/main.d4c0cb43.css",
     "static/js/main.4fa03600.js"
   ]
 }
