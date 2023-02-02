@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/deepak-portfolio/static/css/main.d4c0cb43.css",
-    "main.js": "/deepak-portfolio/static/js/main.4fa03600.js",
+    "main.css": "/deepak-portfolio/static/css/main.412e8604.css",
+    "main.js": "/deepak-portfolio/static/js/main.f5f2b5bf.js",
     "static/media/deepak.png": "/deepak-portfolio/static/media/deepak.d59f13ddec003e5760e8.png",
     "static/media/deepak1.png": "/deepak-portfolio/static/media/deepak1.ef4ccc08fe023bfcc4cd.png",
     "static/media/me-about.jpg": "/deepak-portfolio/static/media/me-about.68347abc1bf627a8baf6.jpg",
@@ -11,11 +11,11 @@
     "static/media/booking.jpeg": "/deepak-portfolio/static/media/booking.701bad40cc05dff609fc.jpeg",
     "static/media/expense.jpeg": "/deepak-portfolio/static/media/expense.8de22e2e8bcc495dc846.jpeg",
     "index.html": "/deepak-portfolio/index.html",
-    "main.d4c0cb43.css.map": "/deepak-portfolio/static/css/main.d4c0cb43.css.map",
-    "main.4fa03600.js.map": "/deepak-portfolio/static/js/main.4fa03600.js.map"
+    "main.412e8604.css.map": "/deepak-portfolio/static/css/main.412e8604.css.map",
+    "main.f5f2b5bf.js.map": "/deepak-portfolio/static/js/main.f5f2b5bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4c0cb43.css",
-    "static/js/main.4fa03600.js"
+    "static/css/main.412e8604.css",
+    "static/js/main.f5f2b5bf.js"
   ]
 }
